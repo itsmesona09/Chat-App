@@ -11,7 +11,7 @@
 
 ## Installation
 
-- Clone the repository: git clone https://github.com/yourusername/chat-app.git
+- Clone the repository
 - Install dependencies:
   cd chat-app
   npm install
